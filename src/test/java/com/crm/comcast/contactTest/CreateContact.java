@@ -42,7 +42,7 @@ public class CreateContact {
 		/*Random ram=new Random();
 		int ramint=ram.nextInt(1000);*/
 		int ramint = JavaUtility.getRanDomNumber();
-		//ssss
+		//ssssachinnnnnnnnnnnnnnnnnnnnn
 		
 		
 	/*	FileInputStream fis1=new FileInputStream("./data/contacts.xlsx");
