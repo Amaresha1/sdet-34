@@ -18,6 +18,7 @@ public class CampiagnAndProductTest extends BaseClass {
 	public void campAndProd() throws Throwable {
 		
 		int rndm1 = JavaUtility.getRanDomNumber();
+		//*sachin
 		 String productName = elib.getDataFromExcel("Campaign", 1, 0)+rndm1;
 		 String campaignName = elib.getDataFromExcel("Campaign", 1, 1)+rndm1;
 			//step2;navigate to product
