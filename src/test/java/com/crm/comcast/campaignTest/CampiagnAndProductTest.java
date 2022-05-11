@@ -31,6 +31,7 @@ public class CampiagnAndProductTest extends BaseClass {
 			//step3;create product
 			createProduct cp=new createProduct(driver);
 			cp.getCreatproductimg().click();
+		//shashi
 			
 			//step4;create new product
 			createNewProduct cnp=new createNewProduct(driver);
