@@ -19,6 +19,7 @@ public class CampiagnAndProductTest extends BaseClass {
 		
 		int rndm1 = JavaUtility.getRanDomNumber();
 		//*sachin
+		//asassas
 		 String productName = elib.getDataFromExcel("Campaign", 1, 0)+rndm1;
 		 String campaignName = elib.getDataFromExcel("Campaign", 1, 1)+rndm1;
 			//step2;navigate to product
